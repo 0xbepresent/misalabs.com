@@ -1,0 +1,100 @@
+    @font-face{
+            font-family:"code";
+            src: url(../fonts/code.ttf);
+       }
+       body{
+            font: 65px arial;
+            font-family: "code";
+            color: #FF0040;
+            background-color: #151515;
+       } 
+       #txt{
+            position:absolute;
+            padding:10px;
+            top:50%;
+            left:50%;
+            width:auto;
+	margin-top:-200px;
+            margin-left:-200px;
+            border:3px dashed #FF0040;
+       }
+       .contenido{
+            font-size: 15px;
+            color: #FA8258;
+            position:absolute;
+            padding:25px;
+            top:50%;
+            left:50%;
+            width:800px;
+            height:auto;
+            margin-top:-250px;
+            margin-left:-435px;
+            border:1px dashed #FF0040;    
+       }
+      .contenido label{
+            display: block;
+            font-weight:bold;
+       }
+       .contenido input[type='text']{
+            font-family: "code";
+            color: #58ACFA;
+            padding: 2px 2px;
+            width: 200px;
+            border: 1px dotted #FE2E64;
+            background-color: #151515;
+            outline:none;
+       }
+       .contenido input[type='text']:focus{
+            border: 1px dotted #FA5882;
+       }
+       .contenido textarea{
+            font-family: "code";
+            color: #58ACFA;
+            border: 1px dotted #FE2E64;
+            background-color: #151515;
+            resize: none;
+            outline:none;
+	    overflow: auto;
+       }
+      .contenido textarea:focus{
+            border: 1px dotted #FA5882;
+      }
+       .contenido div{
+            margin-bottom: 15px;
+       }
+       .menu{
+            font-size: 14px;
+            color: #FA8258;
+            position:absolute;
+            padding:3px;
+            top:50%;
+            left:50%;
+            width:auto;
+            height:auto;
+            margin-top:-300px;
+            margin-left:-255px;
+       }
+       .menu .materialwrapper{
+            padding-bottom: 5px;
+            border-bottom:1px dashed #FF0040;
+            padding-left: 16px;
+            padding-right: 16px;
+            text-decoration:none;
+            display: inline-block;
+       }
+       .btn{
+            font-family: "code";
+            background-color: #151515;
+            color: #FA8258;
+            border: 1px dotted #FE2E64;
+       }
+       #formContacto label.error{
+            font-family: "code";
+            color: #FF0040;
+       }
+       #contenido_proyecto{
+            width: auto;
+            height: 250px;
+       }
+       A:link, A:visited{ color: #FF0040; text-decoration: none;}
+       A:hover, A:active{color: #FF0040;  text-decoration: none;}
