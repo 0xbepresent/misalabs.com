@@ -60,6 +60,7 @@ a:hover{
 
 .post {
   postition: relative;
+  line-height: 25px;
 }
 
 .post-date {
