@@ -1,2 +1,2 @@
-web: python hobo.py
+web: python hobo.py heroku
 

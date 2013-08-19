@@ -7,6 +7,7 @@
 # I M P O R T S ###############################################################
 
 
+import sys
 import logging
 import re
 import os
@@ -202,13 +203,16 @@ def error404(code=None):
 
 # E X E C U T I O N ###########################################################
 
-
-process_blog_posts()
-if USE_HEROKU:
-    run(host="0.0.0.0", port=int(os.environ.get("PORT", 80)))
-else:
-    run(host="localhost", port=8080)
+if __name__ == '__main__':
+    #python hobo.py local || python hobo.py heroku
+    if len(sys.argv) == 2:
+        if sys.argv[1] == 'local':
+            run(host="localhost", port=8080)
+        elif sys.argv[1] == 'heroku':
+            process_blog_posts()
+            run(host="0.0.0.0", port=int(os.environ.get("PORT", 80)))
+    else:
+        run(host="localhost", port=8080)
 
 
 # E N D   O F   F I L E #######################################################
-
