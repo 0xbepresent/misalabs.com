@@ -9,6 +9,7 @@
     <div style="text-align: center; font-size: 20px;">{{code if code else 'Unknown'}}</div>
     <div style="text-align: center;">
       <p>Unfortunately, an error has occurred, but please settle down.  Just keep moving on.</p>
+      <img class='center' src="/static/img/error1.png">
       <p>Click <a href="/">here</a> to visit the main page.</p>
     </div>
   </div>

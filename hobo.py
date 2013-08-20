@@ -201,15 +201,21 @@ def error404(code=None):
     return {'code': code}
 
 
+@error(500)
+@view('error')
+def error500(code=None):
+    return {'code': code}
+
+
 # E X E C U T I O N ###########################################################
 
 if __name__ == '__main__':
     #python hobo.py local || python hobo.py heroku
+    process_blog_posts()
     if len(sys.argv) == 2:
         if sys.argv[1] == 'local':
             run(host="localhost", port=8080)
         elif sys.argv[1] == 'heroku':
-            process_blog_posts()
             run(host="0.0.0.0", port=int(os.environ.get("PORT", 80)))
     else:
         run(host="localhost", port=8080)
