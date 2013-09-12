@@ -50,11 +50,11 @@
     <div id='tab3' class='contenido'>
         <div id="contenido_proyecto">
             <div style='width: 350px; float:left;'>
-                <img src="/static/img/fanfeando.png"/>
+                <img src="/static/img/laposh.png"/>
             </div>
             <div style='width: 390px; float:right;'>
                 <p align='justify'>
-                Fanfeando te conecta con gente que no conoces, mediante
+                Laposh te conecta con gente que no conoces, mediante
                 un chat y una camara podras navegar por la red de usuarios
                 y establecer un conversacion con personas afines a tus ideas,
                 gustos, etc. <br><br>
@@ -63,7 +63,7 @@
                 conectar con cuentas de Facebook o Twitter,  y asi 
                 establecer el algoritmo para la afinidad de gustos.<br><br>
                 Si te interesa puedes <a href="mailto:arensiatik@hotmail.com">colaborar</a>, siempre abierto a ideas :D
-                <a href="http://fanfeando.herokuapp.com" target="_blank"> Visitar sitio </a>
+                <a href="http://laposh.herokuapp.com" target="_blank"> Visitar sitio </a>
                 </p>
             </div>
         </div><br><br>
