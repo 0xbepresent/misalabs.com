@@ -149,8 +149,10 @@ def process_blog_posts():
 @route('/<page:int>')
 @view('index')
 def index(page=0):
+    year = datetime.datetime.now().strftime("%Y")
     return {'title': TITLE,
-            'subtitle': SUBTITLE}
+            'subtitle': SUBTITLE,
+            'year': year}
 
 @route('/blog')
 @route('/blog/<page:int>')
@@ -214,11 +216,11 @@ if __name__ == '__main__':
     process_blog_posts()
     if len(sys.argv) == 2:
         if sys.argv[1] == 'local':
-            run(host="localhost", port=8080)
+            run(host="localhost", port=8010)
         elif sys.argv[1] == 'heroku':
             run(host="0.0.0.0", port=int(os.environ.get("PORT", 80)))
     else:
-        run(host="localhost", port=8080)
+        run(host="localhost", port=8010)
 
 
 # E N D   O F   F I L E #######################################################
