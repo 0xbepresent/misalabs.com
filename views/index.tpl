@@ -34,7 +34,8 @@
                     also know that I love working with Back-end side.
                     <br><br>
                     I'd worked in several companies as a web developer but now
-                    I'm working as a freelance. I'm writing a <a href="/blog">blog</a> about of my experiences, so you can see it.
+                    I'm working as a freelance. I'm writing a <a href="/blog">blog</a> about of my experiences, so you can see it. 
+                    Also I like to contribute to the free software.
                     <br><br>
                     Cheers, Misa.
                 </p>
@@ -62,7 +63,8 @@
                     <hr class="line_black">
                     <p>I'm located on Mexico City so please, send me an <a href="mailto:a_garmo@hotmail.com"> e-mail</a>.
                     <br>
-                    Also, you can see my <a href="http://github.com/misalabs">Github Account</a>
+                    You can see my <a href="http://github.com/misalabs">Github account.</a><br>
+                    I'm writing a <a href="/blog">blog.</a>
                     </p>
                 </div>
             </div>
