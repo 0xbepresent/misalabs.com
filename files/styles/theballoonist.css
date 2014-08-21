@@ -26,17 +26,15 @@ a:hover{
   color: #48AF98;
 }
 
-#body-wrapper {
-  margin-left: auto;
-  margin-right: auto;
-  width: 800px;
-}
-
 #blog-title {
   font-family: 'Terminal Dosis Light', serif;
-  font-size: 4em;
-  margin: 0px 0px 20px 0px;
+  font-size: 65px;
+  margin: 20px 0px 0px 0px;
   letter-spacing: 0.085em;
+}
+
+#body_posts{
+  margin-top: 60px;
 }
 
 #blog-title a {
@@ -48,14 +46,18 @@ a:hover{
 }
 
 #page-navigation {
+  margin-top: 60px;
   text-align: center;
   color: #D33682;
+  font-size: 15px;
 }
 
 #powered-by {
   text-align: center;
   margin: 10px 0px 0px 0px;
   color: #9D9D9D;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
 
 .post {
@@ -73,7 +75,7 @@ a:hover{
 
 .post-title {
   font-family: 'Terminal Dosis Light', serif;
-  font-size: 2em;
+  font-size: 28px;
   color: #D33682;
   float: left;
 }
@@ -103,6 +105,7 @@ a:hover{
 .post-body{
   color: #C0B7B8;
   text-align: justify;
+  font-size: 16px;
 }
 
 /** Markdown *****************************************************************/
