@@ -11,6 +11,7 @@
     <script type='text/javascript' src='/static/js/gdataanalytics.js'></script>
 </head>
 <body>
+<div id="wrapper">
     <div id='head_website'>
         <div class="row">
             <div class='large-centered columns'>
@@ -70,12 +71,13 @@
             </div>
         </div>
     </div>
-    <footer>
+    <!-- <footer> -->
         <div id='footer'>
             <div class="copyright">
                 © {{year}}. Misalabs. Made with <font color="#FA5858" size="3px">♥</font> in Mexico City.
             </div>
         </div>
-    </footer>
+    <!-- </footer> -->
+</div>
 </body>
 </html>
