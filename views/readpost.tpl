@@ -2,9 +2,10 @@
 <html>
 <head>
   <title>{{title}}: {{post.meta['title']}}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
   <link href="/static/styles/foundation/css/normalize.css" rel="stylesheet">
   <link href="/static/styles/foundation/css/foundation.css" rel="stylesheet">
-  <link href="/static/styles/theballoonist.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/static/styles/theballoonist.css" rel="stylesheet" type="text/css" />
   <script type='text/javascript' src='/static/js/gdataanalytics.js'></script>
 </head>
 <body>
