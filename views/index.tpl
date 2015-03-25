@@ -36,7 +36,7 @@
                     <br><br>
                     I'd worked in several companies as a web developer but now
                     I'm working as a freelance. I'm writing a <a href="/blog">blog</a> about of my experiences, so you can see it. 
-                    Also I like to contribute to the free software.
+                    Also I like to contribute to open source.
                     <br><br>
                     Cheers, Misa.
                 </p>
