@@ -29,7 +29,7 @@
                 <hr class="line_black">
                 <p style="text-align: justify;">I'm Misa, 
                     a Web Developer from Mexico City. I know a variety of 
-                    technologies, with a focus on Web Back-end side, Python and Django.
+                    technologies, with a focus in Web Back-end side, Python and Django.
                     <br><br>
                     I've been working on Web for the last 7 years. You should
                     also know that I love working with Back-end side.
