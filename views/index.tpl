@@ -64,7 +64,7 @@
                     <p>I'm located on Mexico City so please, send me an <a href="mailto:a_garmo@hotmail.com"> e-mail</a>.
                     <br>
                     You can see my <a href="http://github.com/misalabs">Github</a> or my <a href="https://bitbucket.org/misalabs">BitBucket</a><br>
-                    I'm writing a <a href="/blog">blog.</a>
+                    I'm writing a <a href="/blog">blog</a> about my experiences and it's well worth the read.
                     </p>
                 </div>
             </div>
