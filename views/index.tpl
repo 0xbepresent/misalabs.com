@@ -28,15 +28,14 @@
             <div class='large-8 large-centered columns'>
                 <hr class="line_black">
                 <p style="text-align: justify;">I'm Misa, 
-                    a Web Developer from Mexico City. I know a variety of 
-                    technologies, with a focus in Web Back-end side, Python and Django.
+                    a Web Developer from Mexico City. I have advanced knowledge
+                    in  programming, coding and scripting but I specialize in Web Back-end side, Python and Django.
                     <br><br>
-                    I've been working on Web for the last 7 years. You should
-                    also know that I love working with Back-end side.
-                    <br><br>
-                    I'd worked in several companies as a web developer but now
-                    I'm working as a freelance. I'm writing a <a href="/blog">blog</a> about of my experiences, so you can see it. 
+                    I've been working on Web for the last seven years and I love working with Back-end side.
                     Also I like to contribute to open source.
+                    <br><br>
+                    I've worked in several companies as a web developer but now
+                    I'm working as a freelancer. I'm writing a <a href="/blog">blog</a> about of my experiences, so you can see it.
                     <br><br>
                     Cheers, Misa.
                 </p>
