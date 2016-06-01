@@ -32,10 +32,10 @@
                     in  programming, coding and scripting but I specialize in Web Back-end side, Python and Django.
                     <br><br>
                     I've been working on Web for the last seven years and I love working with Back-end side.
-                    Also I like to contribute to open source.
+                    Also, I like to contribute to open source.
                     <br><br>
                     I've worked in several companies as a web developer but now
-                    I'm working as a freelancer. I'm writing a <a href="/blog">blog</a> about of my experiences, so you can see it.
+                    I'm working as a freelancer.
                     <br><br>
                     Cheers, Misa.
                 </p>
@@ -61,7 +61,7 @@
                 <div class='large-8 large-centered columns'>
                     <h1>Contact me</h1>
                     <hr class="line_black">
-                    <p>I'm located on Mexico City so please, send me an <a href="mailto:a_garmo@hotmail.com"> e-mail</a>.
+                    <p>I'm located in Mexico City so please, send me an <a href="mailto:a_garmo@hotmail.com"> e-mail</a>.
                     <br>
                     You can see my <a href="http://github.com/misalabs">Github</a> or my <a href="https://bitbucket.org/misalabs">BitBucket.</a><br>
                     I'm writing a <a href="/blog">blog</a> about my experiences and it's well worth the read.
