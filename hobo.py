@@ -185,12 +185,6 @@ def server_static(filepath):
     return static_file(filepath, root='files')
 
 
-@route('/perchlive')
-@view('perchlive')
-def perchlive(page=0):
-    return {}
-
-
 @route('/favicon.ico')
 def favicon():
     return static_file('favicon.ico', root='files')
