@@ -167,7 +167,6 @@ def blog(page=0):
             'has_prev': (page > 0),
             'has_next': (len(POSTS) > (page + 1) * POSTS_PER_PAGE)}
 
-
 @route('/<yy:int>/<mm:int>/<dd:int>/<slug>')
 @view('readpost')
 def readpost(yy, mm, dd, slug):
@@ -184,6 +183,12 @@ def readpost(yy, mm, dd, slug):
 @route('/static/<filepath:path>')
 def server_static(filepath):
     return static_file(filepath, root='files')
+
+
+@route('/perchlive')
+@view('perchlive')
+def perchlive(page=0):
+    return {}
 
 
 @route('/favicon.ico')
