@@ -10,8 +10,11 @@
                     'email': $("#email").val(),
                     'password': $("#password").val()
                 },
-                complete: function(data){
-                    alert('Cookie' + document.cookie);
+                success: function(data, textStatus, XMLHttpRequest){
+                    alert('success' + XMLHttpRequest.getResponseHeader('Set-Cookie'));
+                },
+               error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert('error' + XMLHttpRequest.getResponseHeader('Set-Cookie'));
                }
               });
         }
