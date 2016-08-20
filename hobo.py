@@ -190,6 +190,11 @@ def favicon():
     return static_file('favicon.ico', root='files')
 
 
+@route('/pgp')
+def pgp_publick_key():
+    return static_file('pgp.txt', root='files')
+
+
 @error(403)
 @view('error')
 def error403(code=None):
