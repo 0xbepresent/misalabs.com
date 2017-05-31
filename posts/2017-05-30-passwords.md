@@ -39,7 +39,9 @@ de tus cuentas.
 Ahora, solo es necesario tener el archivo *.kdbx para poder abrirlo en cualquier
 computadora o telefono (<a href="https://itunes.apple.com/mx/app/minikeepass-secure-password-manager/id451661808?mt=8">KeePass for IOS</a>) entonces
 lo que hago es compartir el archivo en todos lados via DropBox. Cabe mencionar
-que para <a href="https://www.dropbox.com/help/security/enable-two-step-verification">DropBox tengo habilitado Two Factor Authentication</a>.
+que para <a href="https://www.dropbox.com/help/security/enable-two-step-verification">DropBox tengo habilitado Two Factor Authentication</a>. Además, es importante
+señalar que cada password debe ser diferente de cada cuenta, ahora tenemos
+un programa que las guarda por nosotros así que no es necesario memorizarlas.
 
 Como veras, el archivo se comparte en todos mis dispositivos y puedo abrirlo
 y editarlo sin problemas. Además este archivo es para mi uso interno, ningúna
@@ -48,3 +50,10 @@ empresa, ningún tercero puede acceder a mi cuenta.
 No olvidar que en la mayoria de todas nuestras cuentas se usa el email, entonces
 si por alguna razón perdemos todo, el email va a ser la clave para recuperar
 todas nuestras cuentas.
+
+Un tip, para los passwords uso largas frases que sean fáciles de recordar para el humano, <a href="https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/">acá dejo un post</a> muy interesante
+acerca del tema. Así, puedo usar por ejemplo "Los Niños Son Pequeños", esta frase
+computacionalmente es muy complicada ya que tiene mayusculas, minusculas, espacios y son
+muchas letras.
+En este <a href="https://howsecureismypassword.net/">sitio de internet</a> pueden 
+evaluar sus passwords.
