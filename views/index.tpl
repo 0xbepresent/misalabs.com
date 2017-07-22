@@ -63,7 +63,7 @@
                 <div class='large-8 large-centered columns'>
                     <h1>Contact me</h1>
                     <hr class="line_black">
-                    <p>I'm located in Mexico City so please, send me an <a href="mailto:arensiatik@gmail.com"> e-mail</a>. If you want to talk securely, <a href="/pgp">here is my public PGP key.</a>
+                    <p>I'm located in Mexico City so please, send me an <a href="mailto:contact@misalabs.com"> e-mail</a>. If you want to talk securely, <a href="/pgp">here is my public PGP key.</a>
                     <br>
                     You can see my <a href="http://github.com/misalabs">Github</a> or my <a href="https://bitbucket.org/misalabs">BitBucket.</a><br>
                     I'm writing a <a href="/blog">blog</a> about my experiences and it's well worth the read.
