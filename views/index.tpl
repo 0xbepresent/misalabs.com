@@ -36,9 +36,6 @@
                     Also, I'm a security enthusiast and I've been working in some
                     security bug bounty programs.
                     <br><br>
-                    I've worked in several companies as a web developer but now
-                    I'm working as a freelancer.
-                    <br><br>
                     Cheers, Misa.
                 </p>
             </div>
