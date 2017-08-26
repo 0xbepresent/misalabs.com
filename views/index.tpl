@@ -73,7 +73,7 @@
     <!-- <footer> -->
         <div id='footer'>
             <div class="copyright">
-                © {{year}}. Misalabs. Made with <font color="#FA5858" size="3px">♥</font> in Mexico City.
+                © {{year}}, Misalabs. Made with <font color="#FA5858" size="3px">♥</font> in Mexico City.
             </div>
         </div>
     <!-- </footer> -->
