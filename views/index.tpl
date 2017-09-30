@@ -15,7 +15,7 @@
     <div id='head_website'>
         <div class="row">
             <div class='large-centered columns'>
-                <h1>Misael García</h1>
+                <h1>Misa Montes</h1>
             </div>
         </div>
     </div>
