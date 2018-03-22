@@ -2,13 +2,13 @@
  * Primary Color: #E9D4C2 #B1A59B #9B6B43 #F4E3D5 #F4E8DE
  * Secondary Color: #748C8C #5D6A6A #285D5D #ADC5C5 #B3C5C5
  */
-@import url(http://fonts.googleapis.com/css?family=Fauna+One);
+@import url(https://fonts.googleapis.com/css?family=Fauna+One);
 
 @font-face {
   font-family: 'Terminal Dosis Light';
   font-style: normal;
   font-weight: 400;
-  src: local('Terminal Dosis Light'), local('TerminalDosis-Light'), url(http://themes.googleusercontent.com/static/fonts/terminaldosislight/v3/UyNOlq8pwXsdXFw6uDx3EvE6Kx76Zt1qXITZE9-oKFQ.woff) format('woff');
+  src: local('Terminal Dosis Light'), local('TerminalDosis-Light'), url(https://themes.googleusercontent.com/static/fonts/terminaldosislight/v3/UyNOlq8pwXsdXFw6uDx3EvE6Kx76Zt1qXITZE9-oKFQ.woff) format('woff');
 }
 
 html, body{
