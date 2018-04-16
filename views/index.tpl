@@ -23,7 +23,6 @@
         <div class='row'>
             <div class='large-centered columns'>
                 <h1>Hello</h1>
-                
             </div>
             <div class='large-8 large-centered columns'>
                 <hr class="line_black">
