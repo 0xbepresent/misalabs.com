@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" name='keywords' content='software, consultoria, software, freelance, python, misalabs, desarrollador, consultor' />
      <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
-    <title>Misael García</title>
+    <title>Misa Montes</title>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
     <link href="/static/styles/foundation/css/normalize.css" rel="stylesheet">
     <link href="/static/styles/foundation/css/foundation.css" rel="stylesheet">

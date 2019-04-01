@@ -1,7 +1,7 @@
 # coding: utf-8 -*-
 # TITLE / SUBTITLE / AUTHOR
 # The title, subtitle, and author of the blog
-TITLE = "Misael García"
+TITLE = "Misa Montes"
 SUBTITLE = "blog"
 AUTHOR = "Misa"
 METADATA_TAGS = ['title', 'author']
