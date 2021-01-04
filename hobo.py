@@ -92,7 +92,7 @@ def process_blog_posts():
 
             # Open the file
             file_handle = open(path + input_file, 'r')
-            contents = file_handle.read().decode('utf-8')
+            contents = file_handle.read()
 
             # Find the slug
             slug = input_file.split('-', 3)[-1]
