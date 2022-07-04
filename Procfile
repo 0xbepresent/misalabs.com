@@ -1,1 +1,1 @@
-web: python hobo.py heroku
+web: newrelic-admin run-program python hobo.py heroku
