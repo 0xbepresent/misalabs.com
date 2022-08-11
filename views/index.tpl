@@ -30,10 +30,9 @@
                     a Web Developer from Mexico City. I have advanced knowledge
                     in  programming, coding and scripting but I specialize in Web Back-end side, Python and Django.
                     <br><br>
-                    I've been working on Web for the last 9 years and I love working with Back-end side. I like to contribute to open source.
+                    I've been working on Web for the last 11 years and I love working with Back-end side. I like to contribute to open source.
                     <br><br>
-                    Also, I'm a security enthusiast and I've been working in some
-                    security bug bounty programs.
+                    Also, I'm a bug bounty hunter at <a href="https://hackerone.com/0xbepresent" target="_blank">Hackerone<a>.
                     <br><br>
                     Cheers, Misa.
                 </p>
