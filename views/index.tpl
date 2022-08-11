@@ -32,7 +32,7 @@
                     <br><br>
                     I've been working on Web for the last 12 years and I love working with Back-end side. I like to contribute to open source.
                     <br><br>
-                    Also, I'm a bug bounty hunter at <a href="https://hackerone.com/0xbepresent" target="_blank">Hackerone<a>.
+                    Also, I'm a bug bounty hunter at <a href="https://hackerone.com/0xbepresent" target="_blank">Hackerone</a>.
                     <br><br>
                     Cheers, Misa.
                 </p>
