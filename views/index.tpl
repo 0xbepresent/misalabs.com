@@ -60,7 +60,7 @@
                     <hr class="line_black">
                     <p>I'm located in Mexico City so please, send me an <a href="mailto:hi@misalabs.com"> e-mail</a>. If you want to talk securely, <a href="https://keybase.io/misalabs">here is my Keybase.</a>
                     <br>
-                    You can see my <a href="http://github.com/misalabs">Github</a> or my <a href="https://bitbucket.org/misalabs">BitBucket.</a><br>
+                    You can see my <a href="http://github.com/0xbepresent">Github</a> or my <a href="https://bitbucket.org/misalabs">BitBucket.</a><br>
                     I'm writing a <a href="/blog">blog</a> about my experiences and it's well worth the read.
                     </p>
                     <hr class="line_black">
