@@ -27,7 +27,7 @@
             <div class='large-8 large-centered columns'>
                 <hr class="line_black">
                 <p style="text-align: justify;">I'm Misa,
-                    a Web Developer from Mexico City. I have advanced knowledge
+                    a Web Developer. I have advanced knowledge
                     in  programming, coding and scripting but I specialize in Web Back-end side, Python and Django.
                     <br><br>
                     I've been working on Web for the last 12 years and I love working with Back-end side. I like to contribute to open source.
@@ -58,7 +58,7 @@
                 <div class='large-8 large-centered columns'>
                     <h1>Contact me</h1>
                     <hr class="line_black">
-                    <p>I'm located in Mexico City so please, send me an <a href="mailto:hi@misalabs.com"> e-mail</a>. If you want to talk securely, <a href="https://keybase.io/misalabs">here is my Keybase.</a>
+                    <p>Send me an <a href="mailto:hi@misalabs.com"> e-mail</a>. If you want to talk securely, <a href="https://keybase.io/misalabs">here is my Keybase.</a>
                     <br>
                     You can see my <a href="http://github.com/0xbepresent">Github</a> or my <a href="https://bitbucket.org/misalabs">BitBucket.</a><br>
                     I'm writing a <a href="/blog">blog</a> about my experiences and it's well worth the read.
