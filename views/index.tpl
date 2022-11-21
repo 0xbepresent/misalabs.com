@@ -7,7 +7,7 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
     <link href="/static/styles/foundation/css/normalize.css" rel="stylesheet">
     <link href="/static/styles/foundation/css/foundation.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/static/styles/home.css"></style>
+    <link rel="stylesheet" type="text/css" href="/static/styles/home.css?1=2"></style>
     <script type='text/javascript' src='/static/js/gdataanalytics.js'></script>
 </head>
 <body>
@@ -24,7 +24,7 @@
             <div class='large-centered columns'>
                 <h1>Hello</h1>
             </div>
-            <div class='large-8 large-centered columns'>
+            <div class='large-11 large-centered columns'>
                 <hr class="line_black">
                 <p style="text-align: justify;">I'm Misa,
                     a Web Developer. I have advanced knowledge
@@ -42,7 +42,7 @@
     <!-- <div id='projects'>
         <div class='row'>
             <div class='row'>
-                <div class='large-8 large-centered columns'>
+                <div class='large-11 large-centered columns'>
                     <h1>Projects</h1>
                     <hr class="line_black">
                     <p>I've worked in several projects as designer and
@@ -55,7 +55,7 @@
     <div id='contact'>
         <div class='row'>
             <div class='row'>
-                <div class='large-8 large-centered columns'>
+                <div class='large-11 large-centered columns'>
                     <h1>Contact me</h1>
                     <hr class="line_black">
                     <p>Send me an <a href="mailto:hi@misalabs.com"> e-mail</a>. If you want to talk securely, <a href="https://keybase.io/misalabs">here is my Keybase.</a>
@@ -68,13 +68,13 @@
             </div>
         </div>
     </div>
-    <!-- <footer> -->
-        <div id='footer'>
-            <div class="copyright">
-                © {{year}}, Misalabs. Made with <font color="#FA5858" size="3px">♥</font> in Mexico City.
+    <footer>
+        <div id="powered-by">
+            <div class='ro'>
+                © {{year}}, Misalabs. Made with <font color="#FA5858" size="3px">♥</font>
             </div>
         </div>
-    <!-- </footer> -->
+    </footer>
 </div>
 </body>
 </html>
